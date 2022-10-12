@@ -1,0 +1,1 @@
+0[IDLE]_             1~4[WALK]_        5[JUMP]_             6[HIT]_                7~11 [DEAD]

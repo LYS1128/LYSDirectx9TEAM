@@ -1,0 +1,1 @@
+0~2[IDLE]             3~6[WALK]          7[HIT]                 8~15ATTACK]      16~22[DEAD]
